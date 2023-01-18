@@ -22,7 +22,7 @@ Config.gunrack = {
      opening_duration = 3, --sec
      while_open_animation = true, -- while inventory screen is on
      slots = 5,
-     size = 50000,
+     size = 50,
      whitelist = whitelist,
      disable_job_check = false, -- make sure it's fakse if your not using keys or everybody can unlock gunracks
      -- optional make sure you did optional part of installation
